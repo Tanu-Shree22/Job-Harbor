@@ -15,11 +15,12 @@ needs of both job seekers and companies. This study drew upon extensive research
 <br>**Industry Insights and Best Practices:** Study of industry trends and best practices in recruitment and talent acquisition. Analysis of successful case studies within the job platform space, including platforms that have innovated in terms of job diversity, user experience, and employer engagement. Examination of emerging technologies and tools that can enhance the functionality and effectiveness of a job platform, such as AI-driven matching algorithms and interactive job search.
 
 ## Snapshots 
+<p align ='center'>
 <img width="730" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/3579a1ad-38aa-4917-9c8c-5a878feac502">
 <img width="730" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/9d555b30-1d84-44b4-ade8-ebce1de3e7d6">
 <img width="636" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/99853a47-3651-40a0-9014-d53c43af1498">
 <img width="626" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/2e1119ba-ed37-47e6-a6ce-d94e85444a3d">
-
+</p>
 
 ## Future Scope
 <br>**1.** In future we can extend this project by introducing premium membership where a user will be able to discover more elusive jobs. 
