@@ -1,0 +1,30 @@
+.signin{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.Ingroup{
+    margin: 3rem;
+    padding: 3rem;
+    width: 42%;
+    border-radius: 10px;
+    /* margin-top: 10rem; */
+    margin-bottom: 16rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.in-text-in{
+    width: 85%;
+    display:  block;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 6px;
+    border-color: #CFDEE8;
+    
+}
+.hbtn-in{
+    display: block;
+    width: 80%;
+}
+.link-in{
+    margin: 1rem;
+}

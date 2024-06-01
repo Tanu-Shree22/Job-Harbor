@@ -1,0 +1,19 @@
+{"feat":[
+    {
+    "post":"Software Engineer",
+    "src":"https://picsum.photos/600/400?image=1",
+    "company":"Google"},
+    {
+    "post":"Cyber Security",
+    "src":"https://picsum.photos/600/400?image=2",
+    "company":"Meta"},
+    {
+    "post":"Data Science Engineer",
+    "src":"https://picsum.photos/600/400?image=3",
+    "company":"IBM"},
+    {
+    "post":"designer",
+    "src":"https://picsum.photos/600/400?image=3",
+    "company":"Adobe"}
+    
+]}

@@ -1,0 +1,106 @@
+.UserDash{
+    display: flex;
+
+    height: 100%;
+    position: relative;
+    /* border: 2px solid black; */
+    /* height: 75vh; */
+}
+.dash-cont{
+    width: 78%;
+    margin-left: 0;
+    height: inherit;
+}
+.btn-post{
+    padding: 6px;
+    border-radius: 15px;
+    border-color: transparent;
+
+}
+.sidebar{
+    width: 22%;
+    height: 100%;
+    /* border : black 2px solid; */
+
+}
+.Activelinksytle{
+  background-color: aqua;
+}
+.unActive{
+  background-color: blue;
+}
+.sidenav {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+    top: 0px;
+    left: 0px;
+    /* background-color: #c3c3c3; */
+    overflow-x: hidden;
+    /* padding-top: 20px; */
+  }
+  .sidenav a{
+    margin: 20px;
+    /* color: #b19e9e; */
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(239, 239, 239);
+  }
+.Search-form-dash{
+    margin-top: 200px;
+    position: relative;
+}
+
+.input-Search-dash{
+    padding: 10px;
+    width: 100%;
+    padding-left: 40px;
+    border-radius: 12px;
+    background-color: rgb(239, 239, 239);
+    border-color: transparent;
+    
+    /* &:active{
+      border: transparent;
+      border-color: white;
+    }
+    &:focus{
+      border-color: white;
+      border: transparent;
+    } */
+  }
+  .search-icon-dash{
+    margin-left: 7px;
+    position: absolute;
+    width: 30px;
+    height: 100%;
+    color: black;
+  }
+.dashview{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    /* border: 2px solid black; */
+    
+}
+.intro{
+    /* border: 2px solid black; */
+    height: auto;
+    display:inline-flex;
+    /* margin: 15px; */
+    padding-top: 15px;
+    width: 70%;
+    padding-left: 20px;
+}
+
+.application-data{
+    height: 50%;
+}
+  .main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+  }

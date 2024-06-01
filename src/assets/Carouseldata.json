@@ -1,0 +1,12 @@
+{"slides":[
+    {
+    "src":"https://picsum.photos/600/400?image=1",
+    "alt":"image 1 for carouse"},
+    {
+    "src":"https://picsum.photos/600/400?image=2",
+    "alt":"image 2 for carouse"},
+    {
+    "src":"https://picsum.photos/600/400?image=3",
+    "alt":"image 3 for carouse"}
+    
+]}

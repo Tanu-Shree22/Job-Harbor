@@ -1,0 +1,33 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    /* flex-direction: column; */
+}
+.group{
+    margin: 2rem;
+    padding: 3rem;
+    border-radius: 10px;
+    width: 75%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    justify-content: center;
+    align-items: center;
+}
+.in-text{
+    width: 50%;
+    height: 80%;
+
+    display:  block;
+    margin: 1em;
+    padding: 1rem;
+    border-radius: 6px;
+    border-color: #CFDEE8;
+    
+}
+.hbtn{
+    display: block;
+    width: 50%;
+}
+label{
+    padding-left: 20px;
+}
