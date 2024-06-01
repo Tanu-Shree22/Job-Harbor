@@ -19,3 +19,9 @@ needs of both job seekers and companies. This study drew upon extensive research
 <img width="730" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/9d555b30-1d84-44b4-ade8-ebce1de3e7d6">
 <img width="636" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/99853a47-3651-40a0-9014-d53c43af1498">
 <img width="626" alt="image" src="https://github.com/Tanu-Shree22/Job-Harbor/assets/114923618/2e1119ba-ed37-47e6-a6ce-d94e85444a3d">
+
+
+## Future Scope
+<br>**1.** In future we can extend this project by introducing premium membership where a user will be able to discover more elusive jobs. 
+<br>**2.** We can also include meetings like initial rounds meetings of both the candidate and the hiring company through our platform to complete the bridge. 
+<br>**3.** We can also introduce different courses based on the requirement of that particular job just in case a candidate is lacking some skills then they can achieve those by completing that course which will reward a certificate for completion and will help them in achieving that particular job by increasing their
