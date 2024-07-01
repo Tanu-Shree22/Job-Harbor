@@ -1,4 +1,5 @@
 import express, { json } from 'express'
+
 import bcrypt from 'bcryptjs';
 import 'dotenv/config'
 import jwt from 'jsonwebtoken';
